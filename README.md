@@ -5,17 +5,17 @@
 ---
 
 <p align="center">
-  :gear: This is my configuration for Visual Studio Code. The key bindings can be difficult to understand. You can see with the keybindings.json and the keybinding extention.</p>
+  :gear: This is my configuration for Helix. If you want to use it, just copy the settings in your `config.toml`. See [here](https://docs.helix-editor.com/configuration.html) if you don't understand.</p>
 
 ---
 
-### Font
+### :spiral_notepad: Font
 - [Cascadia Mono](https://github.com/microsoft/cascadia-code)
 
-### Theme
+### :national_park: Theme
 - [Yellowed](https://github.com/Gael-Lopes-Da-Silva/YellowedHelix)
 
-### Settings
+### :gear: Settings
 ~~~toml
 theme = "yellowed"
 
