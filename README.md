@@ -74,5 +74,4 @@ character = "|"
 enable = true
 max-wrap = 20
 max-indent-retain = 0
-wrap-indicator = ""
 ~~~
