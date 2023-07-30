@@ -74,4 +74,7 @@ character = "|"
 enable = true
 max-wrap = 20
 max-indent-retain = 0
+
+[keys.normal]
+esc = ["collapse_selection", "keep_primary_selection"]
 ~~~
