@@ -23,7 +23,6 @@ theme = "yellowed"
 scrolloff = 0
 mouse = true
 middle-click-paste = false
-shell = ["powershell", "-nologo"]
 line-number = "relative"
 cursorline = true
 auto-completion = true
