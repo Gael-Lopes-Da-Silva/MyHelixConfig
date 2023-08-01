@@ -38,9 +38,9 @@ color-modes = true
 text-width = 80
 
 [editor.statusline]
-left = ["mode", "spinner", "diagnostics", "version-control"]
+left = ["mode", "spinner", "diagnostics"]
 center = ["file-name", "file-modification-indicator"]
-right = ["total-line-numbers", "position", "position-percentage", "file-encoding", "file-line-ending", "file-type"]
+right = ["version-control", "total-line-numbers", "position", "position-percentage", "file-encoding", "file-line-ending", "file-type"]
 mode.normal = "NORMAL"
 mode.insert = "INSERT"
 mode.select = "SELECT"
