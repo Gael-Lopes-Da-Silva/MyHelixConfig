@@ -38,7 +38,7 @@ color-modes = true
 text-width = 80
 
 [editor.statusline]
-left = ["mode", "spinner", "diagnostics"]
+left = ["mode", "diagnostics"]
 center = ["file-name", "file-modification-indicator"]
 right = ["version-control", "total-line-numbers", "position", "position-percentage", "file-encoding", "file-line-ending", "file-type"]
 mode.normal = "NORMAL"
