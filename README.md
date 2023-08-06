@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  :gear: This is my configuration for Helix. If you want to use it, just copy the settings in your `config.toml`. See <a href="https://docs.helix-editor.com/configuration.html">here</a> if you don't understand.</p>
+  :gear: This is my configuration for Helix. If you want to use it, just copy the settings in your <code>config.toml</code>. See <a href="https://docs.helix-editor.com/configuration.html">here</a> if you don't understand.</p>
 
 ---
 
