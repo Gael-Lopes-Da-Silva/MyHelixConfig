@@ -1,21 +1,17 @@
-<h3 align="center">
+<h1 align="center">
   Helix configuration
-</h3>
-
----
+</h1>
 
 > [!NOTE]
 > This is my configuration for Helix. If you want to use it, just copy the settings in your <code>config.toml</code>. See [here](https://docs.helix-editor.com/configuration.html) if you don't understand.
 
----
-
-### :spiral_notepad: Font
+## :spiral_notepad: Font
 - [Cascadia Mono](https://github.com/microsoft/cascadia-code)
 
-### :national_park: Theme
+## :national_park: Theme
 - [Yellowed](https://github.com/Gael-Lopes-Da-Silva/YellowedHelix)
 
-### :gear: Settings
+## :gear: Settings
 ~~~toml
 theme = "yellowed"
 
