@@ -5,13 +5,13 @@
 > [!NOTE]
 > This is my configuration for Helix. If you want to use it, just copy the settings in your <code>config.toml</code>. See [here](https://docs.helix-editor.com/configuration.html) if you don't understand.
 
-## :spiral_notepad: Font
+## 🗒️ Font
 - [Cascadia Mono](https://github.com/microsoft/cascadia-code)
 
-## :national_park: Theme
+## 🏞️ Theme
 - [Yellowed](https://github.com/Gael-Lopes-Da-Silva/YellowedHelix)
 
-## :gear: Settings
+## ⚙️ Settings
 ~~~toml
 theme = "yellowed"
 
