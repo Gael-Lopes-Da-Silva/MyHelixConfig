@@ -1,9 +1,8 @@
-<h1 align="center">
-  Helix configuration
-</h1>
+<div align="center">
+	<h1>Helix configuration</h1>
+</div>
 
-> [!NOTE]
-> This is my configuration for Helix. If you want to use it, just copy the settings in your <code>config.toml</code>. See [here](https://docs.helix-editor.com/configuration.html) if you don't understand.
+### 🗒️ This is my configuration for Helix. If you want to use it, just copy the settings in your <code>config.toml</code>. See [here](https://docs.helix-editor.com/configuration.html) if you don't understand.
 
 ## 🗒️ Font
 - [Cascadia Mono](https://github.com/microsoft/cascadia-code)
